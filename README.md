@@ -4,14 +4,14 @@
 
 Técnico en Sistemas con experiencia en soporte tecnológico, desarrollo de software e implementación de soluciones digitales.
 
-Actualmente enfocado en:
+## 💻 Especialización
 
 - Desarrollo Backend con C# y ASP.NET Core
-- Construcción de APIs REST
-- Arquitectura de software por capas
-- Bases de datos SQL Server
-- Aplicaciones móviles con Flutter
-- Infraestructura TI y soporte N1/N2
+- Diseño y consumo de APIs REST
+- Arquitectura limpia y patrones de diseño
+- Gestión de bases de datos relacionales
+- Desarrollo móvil con Flutter
+- Soporte TI e infraestructura tecnológica
 
 
 ## 🚀 Sobre mí
@@ -73,6 +73,9 @@ API REST empresarial desarrollada con:
 - Repository Pattern
 - Unit Of Work
 - Arquitectura por capas
+  
+🔗 Repositorio:
+https://github.com/Alexangb/marketplace-api-dotnet
 
 
 ### 📺 Plataforma IPTV
@@ -97,6 +100,10 @@ Sistema web empresarial:
 ## 📊 GitHub Stats
 
 ![Alexander GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexangb&show_icons=true&theme=github_dark)
+
+## 📈 Actividad
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Alexangb)
 
 ## 📫 Contacto
 
