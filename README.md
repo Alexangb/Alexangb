@@ -99,7 +99,7 @@ Sistema web empresarial:
 
 ## 📊 GitHub Stats
 
-![Alexander GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexangb&show_icons=true&theme=github_dark)
+![Alexander GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderGarcia&show_icons=true&theme=github_dark)
 
 ## 📈 Actividad
 
