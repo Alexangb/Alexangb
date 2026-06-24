@@ -94,11 +94,17 @@ Sistema web empresarial:
 - SQL Server
 - Facturación electrónica SUNAT
 
+## 📊 GitHub Stats
+
+![Alexander GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexangb&show_icons=true&theme=github_dark)
 
 ## 📫 Contacto
 
-LinkedIn:
-https://linkedin.com/in/alexander-garcia-berru-b33ba0218
-
-Email:
+📧 Email:
 garciab1504@gmail.com
+
+💼 LinkedIn:
+linkedin.com/in/alexander-garcia-berru-b33ba0218
+
+💻 GitHub:
+github.com/Alexangb
